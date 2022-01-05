@@ -3,8 +3,9 @@
 ### Hello world 👋
 
 I'm a Front-end developer 
+and wanna to be a Full Stack developer
     
 ## About
 -  **Learning :** NodeJS | Java
--  **Languages :** Javascript 
+-  **Languages :** Javascript | Typescript
 -  **Hobbies:** Dota | PUBG | Basketball
