@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=BOBOlife&show_icons=true&theme=vue">
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=BOBOlife&show_icons=true&theme=vue"> -->
 
 ### Hello world 👋
 
@@ -13,7 +13,7 @@ and wanna to be a Full Stack developer
 - 📧 Email : 2385599204@qq.com
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=bobolife.bobolife)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=bobolife.bobolife) -->
 
 <!--
 **sudongyuer/sudongyuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
