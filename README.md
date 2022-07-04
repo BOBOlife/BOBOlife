@@ -1,4 +1,4 @@
-<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=BOBOlife&show_icons=true&theme=vue"> -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=BOBOlife&show_icons=true&theme=vue">
 
 ## Hello world 👋
 
